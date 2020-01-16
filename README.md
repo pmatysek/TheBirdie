@@ -1,5 +1,5 @@
 # TheBirdie
 Python PyGame clone of Flappy Bird game
 
-#Running
+# Running
 python birdie.py
